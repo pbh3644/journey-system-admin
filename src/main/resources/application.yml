@@ -1,0 +1,11 @@
+##-----------服务基本信息、数据源配置-------------------##
+spring:
+  application:
+    #服务的名字
+    name: journey-system-admin
+server:
+  session-timeout: 60
+  tomcat.uri-encoding: UTF-8
+  port: 8000
+
+
