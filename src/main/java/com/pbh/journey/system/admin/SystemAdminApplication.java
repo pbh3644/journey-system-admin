@@ -1,4 +1,4 @@
-package com.cmrh.journey.system.admin;
+package com.pbh.journey.system.admin;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;
